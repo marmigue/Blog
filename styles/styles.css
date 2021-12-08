@@ -15,3 +15,9 @@ h1{
 p{
     font-size: 1.6rem;
 }
+.Containner{
+    width: 40%;
+    text-align: center;
+    border: 2px solid black;
+    margin: 0 auto;
+}
